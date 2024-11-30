@@ -49,7 +49,7 @@ section.hero {
       gap: 0.75rem;
 
       border-radius: 5rem;
-      transition: scale 350ms; // da uma suavizada no efeito de hover
+      transition: scale 350ms; /*// da uma suavizada no efeito de hover*/
 
       &.buy {
         padding: 1rem 1.5rem;
