@@ -2,8 +2,17 @@
 
 💻 Projeto Snitap
 
-Este projeto é uma landing page para treinar animações CSS 
+Este projeto é uma landing page para treinar 
 
+- Animações em CSS: Elementos como botões de chamada para ação e imagens de produtos possuem animações suaves que trazem um toque interativo e envolvente à navegação.
+
+- Chamada para Ação (CTA): O site possui dois CTAs principais: "Comprar Agora" e "Ver em Ação", estrategicamente posicionados no topo da página para maximizar conversões e engajamento.
+
+- Galeria Dinâmica: A seção "Use Snitap por Aí" apresenta uma galeria de imagens que exibe fotos de usuários reais utilizando os patins, incentivando a interação com a marca e o uso de hashtags nas redes sociais.
+
+- Footer Completo: O rodapé oferece fácil acesso a informações importantes como "Sobre", "Nossa Loja", "Política de Privacidade", além de links para redes sociais, promovendo uma experiência de navegação completa e profissional.
+
+- Layout Claro e Intuitivo: A organização das informações é simples e eficiente, com navegação horizontal e uma tipografia amigável que guia o usuário de maneira fluida pela página.
 
 
 ![preview](.github/cover.png)
